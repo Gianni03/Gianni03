@@ -35,5 +35,5 @@ Through my work I find a way to fulfill my need to express myself to the world t
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gianni03&show_icons=true&theme=radical&locale=en" alt="gianni03" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gianni03&theme=dark" alt="gianni03" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gianni03&theme=dark&mode=weekly" alt="gianni03" /></p>
 
