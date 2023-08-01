@@ -13,7 +13,9 @@ Through my work I find a way to fulfill my need to express myself to the world t
 
 - 🔭 I’m currently working on **Focus On Kids web page, Ana Cortese Portfolio**
 
-- 🌱 I’m currently learning **React, Python, Java, NodeJs, SQL**
+- 🌱 I’m currently learning **React, Next, Python, C# .NET, TypeScript, SQL**
+
+- 🌱 I’m currently studying at **UTN - San Rafael (Técnicatura en programación), FrontendMasters.com**
 
 - 👨‍💻 All of my projects are available at [https://giannipasquinelli-webdev.netlify.app/index-en.html](https://giannipasquinelli-webdev.netlify.app/index-en.html)
 
