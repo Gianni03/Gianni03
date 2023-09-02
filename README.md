@@ -11,7 +11,7 @@ Through my work I find a way to fulfill my need to express myself to the world t
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gianni03&label=Profile%20views&color=0e75b6&style=flat" alt="gianni03" /> </p>
 
-- 🔭 I’m currently working on **Holocruxe**
+- 🔭 I’m currently working in **Holocruxe**
 
 - 🌱 I’m currently learning **React, Next, Python, TypeScript, SQL**
 
