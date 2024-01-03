@@ -13,7 +13,7 @@ Through my work I find a way to fulfill my need to express myself to the world t
 
 - 🔭 I’m currently working in **Holocruxe**
 
-- 🌱 I’m currently learning **React, Next, Python, Blende, Three.js**
+- 🌱 I’m currently learning **React, Next, Python, Blender, Three.js**
 
 - 🌱 I’m currently studying at **UTN - San Rafael (Técnicatura en programación), FrontendMasters.com**
 
