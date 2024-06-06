@@ -13,6 +13,8 @@ Through my work I find a way to fulfill my need to express myself to the world t
 
 - 🔭 I’m currently working at **Avature**
 
+- 🌱 I’m currently learning for work: **Php, Symfony, Twig**
+
 - 🌱 I’m currently learning **React, Next, Python, Blender, Three.js**
 
 - 🌱 I’m currently studying at **UTN - San Rafael (Técnicatura en programación)**
