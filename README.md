@@ -13,11 +13,13 @@ Through my work I find a way to fulfill my need to express myself to the world t
 
 - 🔭 I’m currently working at **Avature**
 
-- 🌱 I’m currently learning for work: **Php, Symfony, Twig**
+- 🌱 I’m currently learning for work: **Php, Twig**
 
-- 🌱 I’m currently learning **React, Next, Python, Blender, Three.js**
+- 🌱 I’m currently learning **React, CSS, Javacript**
 
-- 🌱 I’m currently studying at **UTN - San Rafael (Técnicatura en programación)**
+- 🌱 I'm currently studying with **wes bos, josh comeau and hardvard cs50** courses.
+
+- 🌱 I finished my university studies in programming at **UTN - San Rafael (Técnicatura en programación)**
 
 - 👨‍💻 All of my projects are available at [https://giannipasquinelli-webdev.netlify.app/index-en.html](https://giannipasquinelli-webdev.netlify.app/index-en.html)
 
