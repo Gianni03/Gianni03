@@ -13,9 +13,7 @@ Through my work I find a way to fulfill my need to express myself to the world t
 
 - 🔭 I’m currently working at **Avature**
 
-- 🌱 I’m currently learning for work: **Php, Twig**
-
-- 🌱 I’m currently learning **React, CSS, Javacript**
+- 🌱 I’m always learning **React, CSS, Javacript**
 
 - 🌱 I'm currently studying with **wes bos, josh comeau and hardvard cs50** courses.
 
