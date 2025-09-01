@@ -11,7 +11,7 @@ Through my work I find a way to fulfill my need to express myself to the world t
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gianni03&label=Profile%20views&color=0e75b6&style=flat" alt="gianni03" /> </p>
 
-- 🔭 I’m currently working at **Avature**
+- 🔭 I’m currently working at **Holocruxe**
 
 - 🌱 I’m always learning **React, CSS, Javacript**
 
@@ -23,7 +23,7 @@ Through my work I find a way to fulfill my need to express myself to the world t
 
 - 📫 How to reach me **giannipasquinelli@gmail.com**
 
-- ⚡ Some random things **I have an old laptop, with linux mint, because winUpdate crashed many times, now I'm happy with Linux. Also I'm a guitar player, loves prog-metal,prog-rock, guitar virtuosos, minimalistic clasic composers, atonal music.**
+- ⚡ Some random things **I'm a guitar player, loves prog-metal,prog-rock, guitar virtuosos, minimalistic clasic composers, atonal music. Also trainning to run a half Marathon**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
