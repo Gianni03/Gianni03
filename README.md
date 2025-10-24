@@ -15,7 +15,7 @@ Through my work I find a way to fulfill my need to express myself to the world t
 
 - 🌱 I’m always learning **React, CSS, Javacript**
 
-- 🌱 I'm currently studying with **wes bos, josh comeau and hardvard cs50** courses.
+- 🌱 I'm currently studying with **wes bos, josh comeau, [fullstackopen](https://fullstackopen.com/es/) and [The Odin Project](https://www.theodinproject.com/)** courses.
 
 - 🌱 I finished my university studies in programming at **UTN - San Rafael (Técnicatura en programación)**
 
