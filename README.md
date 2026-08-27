@@ -11,15 +11,15 @@ Through my work I find a way to fulfill my need to express myself to the world t
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gianni03&label=Profile%20views&color=0e75b6&style=flat" alt="gianni03" /> </p>
 
-- 🔭 I’m currently working at **Holocruxe**
+- 🔭 I’m currently working at **Plataforma 1810 and KLI**
 
-- 🌱 I’m always learning **React, CSS, Javacript**
+- 🌱 I’m always learning **React, CSS, Javacript, and Ai wokflows**
 
-- 🌱 I'm currently studying with **wes bos, josh comeau, [fullstackopen](https://fullstackopen.com/es/) and [Three.js Journey](https://threejs-journey.com/)** courses.
+- 🌱 I'm currently studying with **josh comeau, [fullstackopen](https://fullstackopen.com/es/) and [Three.js Journey](https://threejs-journey.com/)** courses.
 
 - 🌱 I finished my university studies in programming at **UTN - San Rafael (Técnicatura en programación)**
 
-- 👨‍💻 All of my projects are available at [https://giannipasquinelli-webdev.netlify.app/index-en.html](https://giannipasquinelli-webdev.netlify.app/index-en.html)
+- 👨‍💻 All of my projects are available at [https://giannipasquinelli-webdev.netlify.app/](https://giannipasquinelli-webdev.netlify.app/)
 
 - 📫 How to reach me **giannipasquinelli@gmail.com**
 
